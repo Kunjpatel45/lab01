@@ -1,0 +1,26 @@
+/*General*/
+.wrapper{
+    background-color: aqua;
+    margin: auto;
+    color: #333;
+    width: 95%;
+}
+/*Design*/
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+li:nth-child(odd){
+    font-weight: bold;
+}
+img{
+    width: 30%;
+    height: 31em;
+    padding-left: 3%;
+}
+/* ID Selector */
+.wrapper{
+    color: #000;
+}
